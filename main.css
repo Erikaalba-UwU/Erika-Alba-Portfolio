@@ -486,7 +486,7 @@ footer{
     text-align: center;
     margin-bottom: 70px;
 }
- /*---------------RESPONSIVE---------------*/
+ /*---------------RESPONSIVE--------
 
 @media (max-width: 992px) {
 
@@ -676,4 +676,4 @@ footer{
         justify-content: center;
         align-items: center;
     }
-}
+} -------*/
