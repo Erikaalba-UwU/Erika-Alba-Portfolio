@@ -498,12 +498,8 @@ footer{
     }
 
     .home-text {
-    text-align: left;
+     text-align: center;
     -webkit-text-stroke: 0.1px #494D5F;
-    font-family: 'Courier New', Courier, monospace;
-    Color: var(--main-font2);
-    font-weight: 300;
-    text-shadow: 5px 5px 7px #494D5F;
 
     .b {
         width: 90%;
@@ -555,12 +551,8 @@ footer{
     }
 
     .home-text {
-    text-align: left;
+    text-align: center;
     -webkit-text-stroke: 0.1px #494D5F;
-    font-family: 'Courier New', Courier, monospace;
-    Color: var(--main-font2);
-    font-weight: 300;
-    text-shadow: 5px 5px 7px #494D5F;
 
     .one {
         font-size: 45px;
