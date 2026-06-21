@@ -62,7 +62,7 @@ body{
     max-width: 350px; 
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    Color: var(--main-font1);
+    color: var(--main-font1);
     font-size: 25px;
     font-weight: 800;
     margin-right: 5px;
