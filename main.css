@@ -507,7 +507,14 @@ footer{
     }
 
     .skill-list {
-        gap: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    max-width: 100px;
+    margin: 0 auto;
+    align-items: center;
+    column-gap: 70px;
+    margin-bottom: 70px;
     }
 
     .project-container {
@@ -602,9 +609,16 @@ footer{
     }
 
     .skill-list {
-        grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    max-width: 100px;
+    margin: 0 auto;
+    align-items: center;
+    column-gap: 70px;
+    margin-bottom: 70px;
     }
-
+      
     .skill-img {
         display: flex;
         justify-content: center;
