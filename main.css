@@ -575,9 +575,12 @@ footer{
     }
 
 
-    .a,
+    .a {
+      font-size: 45px;
+    }
+      
     .section-header {
-        font-size: 35px;
+        font-size: 15px;
     }
 
     .a::before,
@@ -595,8 +598,9 @@ footer{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 18px;
+        font-size: 12px;
     }
+ 
 
     .icon-container {
         gap: 30px;
@@ -699,6 +703,6 @@ footer{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 18px;
+        font-size: 12px;
     }
 }
