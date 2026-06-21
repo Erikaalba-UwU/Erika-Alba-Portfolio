@@ -559,8 +559,7 @@ footer{
 
     .home-text {
         text-align: center;
-        -webkit-text-stroke: 0.1px #494D5F;
-        font-weight: extra-bold;
+        -webkit-text-stroke: 3px var(--main-font2);
 
     .one {
         font-size: 45px;
@@ -620,8 +619,7 @@ footer{
 
     .icon-text p {
         font-size: 22px;
-        -webkit-text-stroke: 0.1px #494D5F;
-        font-weight: extra-bold;
+        -webkit-text-stroke: 3px var(--main-font2);
     }
       
     .skill-list {
@@ -642,7 +640,7 @@ footer{
   
 
     .skill-note  {
-        margin: 0;
+        width: 50px;
     }
 
     .section-project {
@@ -687,8 +685,7 @@ footer{
 
     .icon-text p {
         font-size: 22px;
-        -webkit-text-stroke: 0.1px #494D5F;
-        font-weight: extra-bold;
+        -webkit-text-stroke: 3px var(--main-font2);
     }
 
     .icon-text span {
@@ -698,9 +695,8 @@ footer{
     .section-header,
     .a {
         font-size: 35px;
-        -webkit-text-stroke: 0.1px #494D5F;
-        Color: var(--main-font2);
-        font-weight: extra-bold;
+        -webkit-text-stroke: 3px var(--main-font2);
+        
         
     }
 
@@ -730,7 +726,7 @@ footer{
         font-size: 20px;
     }
     .skill-note p {
-        margin: auto;
+       width: 50px;
       
     }
   }
