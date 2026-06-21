@@ -579,6 +579,8 @@ footer{
     .a {
         font-size: 38px;
         -webkit-text-stroke: 0.1px #494D5F;
+        Color: var(--main-font2);
+        
     }
 
     .a::before,
@@ -596,7 +598,7 @@ footer{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 12px;
+        font-size: 20px;
     }
  
 
@@ -626,8 +628,14 @@ footer{
         align-items: center;
     }
 
+    .skill-text {
+        font-size: 25px;
+  }
+  
+
     .skill-note {
         margin: 20px;
+        padding: 0 auto;
     }
 
     .section-project {
@@ -681,6 +689,7 @@ footer{
     .a {
         font-size: 28px;
         -webkit-text-stroke: 0.1px #494D5F;
+        Color: var(--main-font2);
     }
 
     .project-title {
@@ -696,12 +705,16 @@ footer{
         grid-template-columns: 1fr;
         gap: 15px;
 }
+  .skill-text {
+    font-size: 25px;
+  }
+  
    .b {
         width: 90%;
         margin: 0 auto;
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 12px;
+        font-size: 15px;
     }
 }
